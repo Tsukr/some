@@ -1,7 +1,7 @@
 def main():
     num1=recive_numb()
     num2=recive_numb()
-    print('Sum = ', num1+num2)
+    print('Sum=', num1+num2)
 
 def recive_numb():
     '''filtr input. recive only number.return float'''
