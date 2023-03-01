@@ -15,6 +15,7 @@ def recive_numb():
     return num
 
 def add(a,b):
+    '''sum two numbers'''
     return a+b
 
 if __name__ == "__main__":
